@@ -36,6 +36,7 @@ A data-driven solution to monitor blood stock levels, identify donation gaps, an
 
 ```
 ├── blood_donation_tracker.ipynb   # Main notebook
+├── blood_donation_tracker.pptx    # Presentation of this project
 ├── README.md                      # Project overview
 ├── LICENSE                        # MIT License
 ```
